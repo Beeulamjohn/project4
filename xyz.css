@@ -1,0 +1,66 @@
+.background{
+    background-color: rgb(74, 83, 74);
+    margin-top: 50px;
+    margin-left:100px;
+    margin-right: 100px;
+    margin-bottom:50px;
+    
+}
+
+.container{
+    display: flex;
+    margin-left: 100px;
+      
+}
+
+.h1andp{
+    position: absolute;
+    bottom: 80px;
+    padding-left: 70px;
+    color: whitesmoke;
+    
+}
+
+
+.border{
+    background-color: white;
+    height:550px;
+    width:400px;
+    color: grey;
+   
+ 
+}
+
+.text{
+    padding-right: 40px;
+   padding-top: 30px;
+   font-family:Brush Script MT;
+   font-size: 30px;
+   
+}
+
+
+
+ 
+.btn{
+    
+ width:150px;
+ background-color: grey;
+ border-radius: 25px;
+ height: 30px;
+ 
+}
+
+.google{
+    padding-left:130px;
+  
+}
+
+
+.p1{
+    padding-left: 230px;
+}
+
+.form{
+    padding-left: 40px;
+}
